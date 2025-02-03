@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Hello, I'm Khoshayar, a full-stack developer. I began my programming journey with Python, but later became interested in web development. Currently, I work as a freelancer. I switched to web programming because it allows you to see the results of your work in real time. Plus, web design isn’t overly complex, and you can create many amazing projects on the web—it's truly awesome."<br>
+"Hello, I'm Khashayar, a full-stack developer. I began my programming journey with Python, but later became interested in web development. Currently, I work as a freelancer. I switched to web programming because it allows you to see the results of your work in real time. Plus, web design isn’t overly complex, and you can create many amazing projects on the web—it's truly awesome."<br>
 
 
 ## 🌐 Socials:
